@@ -1,0 +1,17 @@
+{
+  "hashes": {
+    "asset-manifest.json": "b52968db95d77062d1168b0bc4ff6ccdddaf07f2630269b7308208bd6cc4a83e",
+    "index.html": "953473a7435b380e0badc24f03581c433a01296ba1bcf1b2a10c70ee78d39f2a",
+    "manifest.json": "45d5954b1633f4bb0b7c39ac7d1d997689159be33b078864dbf100d25866a395",
+    "plugin/NewWorldMinimapPlugin.dll": "aaba43b97f748522bf2191fdf282e7d48a5fc667284144d5df5058569a14fb8a",
+    "plugin/websocket-sharp.dll": "fb06ffceb4f8789c893d2f292e5810927dd7266d3bad68df2cedb8775500e8be",
+    "static/css/2.6f93d7b7.chunk.css": "cff2d741684f58ffb263ef2dac885952243a79831464529fb90f6da446f9af50",
+    "static/css/main.1d0d8f5a.chunk.css": "50709b62c1f54e67a5f895e3aacacdc79a1ca723141018982a75aa45f2c34650",
+    "static/js/2.f60ba63d.chunk.js": "91e10b96d00b028c31bc28102aa8f171ee6b72349bc6a17d62303578524109da",
+    "static/js/2.f60ba63d.chunk.js.LICENSE.txt": "5717369a4dac07cb8042f4517a9a553052ef3ff09eee1d8905021f61ddbc15dc",
+    "static/js/main.57971ef9.chunk.js": "cce0bb80e06c7232046ebf6ff0f86b4f63127f7517e675be83707d71b800844f",
+    "static/js/runtime-main.d56e9198.js": "4770b9d803154decbc7f670cc02b03199ea5fd2087ba74e4c7f23fac7735cf63"
+  },
+  "global": "a80fda7dcb5723ff713cfe91d5f41d483f9f8db2519e139568fd9e341f7d0c8e",
+  "signature": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzaWciOiI4MTBlNzExZDFhZTRjYzRlYTU4MThjOTQ3MjI1YjQwNDY1NWVkNGIyYzliODM4YmQ4MTUyNDU3MWY5MGQzZmJjIiwiaWF0IjoxNjU5NTQ0MDYyfQ.QNkdMmWYJyknnkBpuJ2i7gkYOsdNZXSHJc9B9NfAmFJiolRvSIERg215yLLRvWnfadPVuUjPq19vqdmnu5VwU_YRsst61BXxG1kDdmkDYMV-O7F2MvBaTTmkuGBrPwJt9Lvfnyt_xoXGtX3BFMWHBgdL8nmJhaqG5CPxd0gBpv4"
+}
