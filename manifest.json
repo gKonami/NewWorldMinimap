@@ -199,6 +199,10 @@
       "newworldminimap-plugin": {
         "file": "plugin/NewWorldMinimapPlugin.dll",
         "class": "NewWorldMinimapPlugin.Plugin"
+      },
+      "screenshot-plugin": {
+        "file": "ScreenshotPlugin.dll",
+        "class": "OwUtils.OwUtilsPlugin"
       }
     }
   }
